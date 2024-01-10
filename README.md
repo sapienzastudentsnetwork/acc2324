@@ -20,6 +20,7 @@ _**N.B.**: Considereremo come "risolti" gli esercizi con soluzioni ragionevolmen
 4. [5 giugno 2023](../../discussions?discussions_q=label%3A"5+giugno+2023")
 5. [6 luglio 2023](../../discussions?discussions_q=label%3A"6+luglio+2023")
 6. [6 settembre 2023](../../discussions?discussions_q=label%3A"6+settembre+2023")
+7. [10 gennaio 2024](../../discussions?discussions_q=label%3A"10+gennaio+2024")
 
 #### Filtri per argomento
 
@@ -71,3 +72,9 @@ _**N.B.**: Considereremo come "risolti" gli esercizi con soluzioni ragionevolmen
 1. [Automi](../../discussions/16)
 2. [Calcolabilità](../../discussions/17)
 3. [Complessità](../../discussions/18)
+
+### 10 gennaio 2024
+
+1. [Automi](../../discussions/19)
+2. [Calcolabilità](../../discussions/20)
+3. [Complessità](../../discussions/21)
