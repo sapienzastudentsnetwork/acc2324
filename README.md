@@ -24,9 +24,9 @@ _**N.B.**: Considereremo come "risolti" gli esercizi con soluzioni ragionevolmen
 
 #### Filtri per argomento
 
-1. [Automi](../../discussions?discussions_q=label%3Aautomi)
-2. [Calcolabilità](../../discussions?discussions_q=label%3Acalcolabilità)
-3. [Complessità](../../discussions?discussions_q=label%3Acomplessità)
+1. [Automi](../../discussions?discussions_q=category%3Aautomi)
+2. [Calcolabilità](../../discussions?discussions_q=category%3Acalcolabilità)
+3. [Complessità](../../discussions?discussions_q=category%3Acomplessità)
 
 #### Filtri per stato
 
