@@ -14,15 +14,16 @@ _**N.B.**: Considereremo come "risolti" gli esercizi con soluzioni ragionevolmen
 
 #### Filtri per traccia di esame
 
-1. [9 gennaio 2023](../../discussions?discussions_q=label%3A"9+gennaio+2023")
-2. [6 febbraio 2023](../../discussions?discussions_q=label%3A"6+febbraio+2023")
-3. [27 marzo 2023](../../discussions?discussions_q=label%3A"27+marzo+2023")
-4. [5 giugno 2023](../../discussions?discussions_q=label%3A"5+giugno+2023")
-5. [6 luglio 2023](../../discussions?discussions_q=label%3A"6+luglio+2023")
-6. [6 settembre 2023](../../discussions?discussions_q=label%3A"6+settembre+2023")
-7. [10 gennaio 2024](../../discussions?discussions_q=label%3A"10+gennaio+2024")
-8. [8 febbraio 2024](../../discussions?discussions_q=label%3A"8+febbraio+2024")
-9. [8 aprile 2024](../../discussions?discussions_q=label%3A"8+aprile+2024")
+1. [6 giugno 2024](../../discussions?discussions_q=label%3A"6+giugno+2024")
+2. [8 aprile 2024](../../discussions?discussions_q=label%3A"8+aprile+2024")
+3. [8 febbraio 2024](../../discussions?discussions_q=label%3A"8+febbraio+2024")
+4. [10 gennaio 2024](../../discussions?discussions_q=label%3A"10+gennaio+2024")
+5. [6 settembre 2023](../../discussions?discussions_q=label%3A"6+settembre+2023")
+6. [6 luglio 2023](../../discussions?discussions_q=label%3A"6+luglio+2023")
+7. [5 giugno 2023](../../discussions?discussions_q=label%3A"5+giugno+2023")
+8. [27 marzo 2023](../../discussions?discussions_q=label%3A"27+marzo+2023")
+9. [6 febbraio 2023](../../discussions?discussions_q=label%3A"6+febbraio+2023")
+10. [9 gennaio 2023](../../discussions?discussions_q=label%3A"9+gennaio+2023")
 
 #### Filtri per argomento
 
@@ -92,3 +93,9 @@ _**N.B.**: Considereremo come "risolti" gli esercizi con soluzioni ragionevolmen
 1. [Automi](../../discussions/25)
 2. [Calcolabilità](../../discussions/26)
 3. [Complessità](../../discussions/27)
+
+### 6 giugno 2024
+
+1. [Automi](../../discussions/28)
+2. [Calcolabilità](../../discussions/29)
+3. [Complessità](../../discussions/30)
