@@ -14,17 +14,18 @@ _**N.B.**: Considereremo come "risolti" gli esercizi con soluzioni ragionevolmen
 
 #### Filtri per traccia di esame
 
-1. [3 luglio 2024](../../discussions?discussions_q=label%3A"3+luglio+2024")
-2. [6 giugno 2024](../../discussions?discussions_q=label%3A"6+giugno+2024")
-3. [8 aprile 2024](../../discussions?discussions_q=label%3A"8+aprile+2024")
-4. [8 febbraio 2024](../../discussions?discussions_q=label%3A"8+febbraio+2024")
-5. [10 gennaio 2024](../../discussions?discussions_q=label%3A"10+gennaio+2024")
-6. [6 settembre 2023](../../discussions?discussions_q=label%3A"6+settembre+2023")
-7. [6 luglio 2023](../../discussions?discussions_q=label%3A"6+luglio+2023")
-8. [5 giugno 2023](../../discussions?discussions_q=label%3A"5+giugno+2023")
-9. [27 marzo 2023](../../discussions?discussions_q=label%3A"27+marzo+2023")
-10. [6 febbraio 2023](../../discussions?discussions_q=label%3A"6+febbraio+2023")
-11. [9 gennaio 2023](../../discussions?discussions_q=label%3A"9+gennaio+2023")
+1. [11 settembre 2024](../../discussions?discussions_q=label%3A"11+settembre+2024")
+2. [3 luglio 2024](../../discussions?discussions_q=label%3A"3+luglio+2024")
+3. [6 giugno 2024](../../discussions?discussions_q=label%3A"6+giugno+2024")
+4. [8 aprile 2024](../../discussions?discussions_q=label%3A"8+aprile+2024")
+5. [8 febbraio 2024](../../discussions?discussions_q=label%3A"8+febbraio+2024")
+6. [10 gennaio 2024](../../discussions?discussions_q=label%3A"10+gennaio+2024")
+7. [6 settembre 2023](../../discussions?discussions_q=label%3A"6+settembre+2023")
+8. [6 luglio 2023](../../discussions?discussions_q=label%3A"6+luglio+2023")
+9. [5 giugno 2023](../../discussions?discussions_q=label%3A"5+giugno+2023")
+10. [27 marzo 2023](../../discussions?discussions_q=label%3A"27+marzo+2023")
+11. [6 febbraio 2023](../../discussions?discussions_q=label%3A"6+febbraio+2023")
+12. [9 gennaio 2023](../../discussions?discussions_q=label%3A"9+gennaio+2023")
 
 #### Filtri per argomento
 
@@ -106,3 +107,9 @@ _**N.B.**: Considereremo come "risolti" gli esercizi con soluzioni ragionevolmen
 1. [Automi](../../discussions/31)
 2. [Calcolabilità](../../discussions/32)
 3. [Complessità](../../discussions/33)
+
+### 11 settembre 2024
+
+1. [Automi](../../discussions/34)
+2. [Calcolabilità](../../discussions/35)
+3. [Complessità](../../discussions/36)
