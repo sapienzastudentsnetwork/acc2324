@@ -1,14 +1,14 @@
-# Automi, Calcolabilità e Complessità [A.A. 2023-2024]
+# Automi, Calcolabilità e Complessità
 
 ## Introduzione
 
-Lo scopo di questo repository GitHub è la condivisione e discussione di soluzioni ad esercizi tratti dalle tracce delle prove di esame del prof. Daniele Venturi assegnate prima e durante l'Anno Accademico 2023-2024. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
+Lo scopo di questo repository GitHub è la condivisione e discussione di soluzioni ad esercizi tratti dalle tracce delle prove di esame del prof. Daniele Venturi assegnate prima e durante l'Anno Accademico 2024/2025. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
 _**N.B.**: Considereremo come "risolti" gli esercizi con soluzioni ragionevolmente confermate da più di un utente, per cui **se la tua soluzione coincide con quella pubblicata da un altro/a utente ricordati** nelle pagine degli esercizi (issues) **di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"**; ovviamente anche soluzioni alternative ma equivalenti sono molto gradite ai fini della conferma della bontà di una soluzione!_
 
 ### Risorse utili
 
-- **Sito del corso** [[🌐]](http://danieleventuri.altervista.org/acc.shtml) » contiene le informazioni del corso, il programma e il diario delle lezioni per l'A.A. 2023-2024
+- **Sito del corso** [[🌐]](http://danieleventuri.altervista.org/acc.shtml) » contiene le informazioni del corso, il programma e il diario delle lezioni
 
 ## Collegamenti rapidi
 
