@@ -8,7 +8,7 @@ _**N.B.**: Considereremo come "risolti" gli esercizi con soluzioni ragionevolmen
 
 ### Risorse utili
 
-- **Sito del corso** [[🌐]](http://danieleventuri.altervista.org/acc.shtml) » contiene le informazioni del corso, il programma e il diario delle lezioni
+- [**Sito del corso**](https://dventuri83.github.io/projects/3_acc/) » contiene le informazioni del corso, il programma e il diario delle lezioni
 
 ## Collegamenti rapidi
 
