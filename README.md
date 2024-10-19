@@ -8,7 +8,7 @@
 
 ## ⚠️ Attenzione
 
-Questo forum è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
+Questo forum è gestito e contribuito da studenti e, in quanto tale, non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
 
 ## 🗃 Risorse utili
 
